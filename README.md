@@ -70,3 +70,31 @@ pip install pygame
 python main.py
 ```
 
+## 🧠 Concepts Demonstrated
+- Object-Oriented Programming (inheritance, composition, polymorphism)
+- Delta-time physics (dt frame independence)
+- Sprite grouping and event loops
+- Collision detection and object lifecycle management (.kill(), .split())
+- Procedural asteroid spawning
+
+## 🌟 Possible Extensions
+
+If you’d like to continue developing this project, here are ideas:
+
+- Add a score counter when destroying asteroids
+- Implement player lives and respawning
+- Add acceleration & inertia to ship movement
+- Make the world wrap around screen edges
+- Add explosion effects or particle systems
+- Include a background image or starfield
+- Create power-ups (speed, shields, bombs, etc.)
+
+### 📄 License
+
+This project was created as part of [Boot.dev](https://www.boot.dev)'s Python/Pygame learning module.
+Feel free to fork or extend for your own learning or portfolio use!
+
+📄 License
+
+This project was created as part of a Python/Pygame learning module.
+Feel free to fork or extend for your own learning or portfolio use!
