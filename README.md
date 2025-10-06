@@ -66,5 +66,7 @@ pip install pygame
 
 ### Run the Game
 
-```python main.py```
+```bash
+python main.py
+```
 
