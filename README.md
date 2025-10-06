@@ -93,8 +93,3 @@ If you’d like to continue developing this project, here are ideas:
 
 This project was created as part of [Boot.dev](https://www.boot.dev)'s Python/Pygame learning module.
 Feel free to fork or extend for your own learning or portfolio use!
-
-📄 License
-
-This project was created as part of a Python/Pygame learning module.
-Feel free to fork or extend for your own learning or portfolio use!
